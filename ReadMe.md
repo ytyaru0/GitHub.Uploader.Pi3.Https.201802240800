@@ -104,6 +104,9 @@ commitメッセージ入力。
 説明: xxxxx
 URL: xxxxx
 ----------------------------------------
+add 'src/some1.py'
+...
+add 'src/some9.py'
 commit,pushするならメッセージを入力してください。Enterかnで終了します。
 サブコマンド    n:終了 a:集計 e:編集 d:削除 i:Issue作成
 ```
